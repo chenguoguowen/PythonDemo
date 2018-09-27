@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import  json
 import redis
 import time
-
+#test
 allMusicInfo = {
                 "海阔天空":"Beyond",
                 "第一次爱的人":"王心凌",
